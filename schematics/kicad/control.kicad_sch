@@ -1,0 +1,1478 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a7028651-de23-437d-8273-16bce7b83767")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Logic_Programmable:PAL16L8"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -7.366 16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "PAL16L8"
+				(at 1.27 16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://docs.rs-online.com/53eb/0900766b8002a354.pdf"
+				(at 0 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-20 / PLCC-20"
+				(at 0.254 -19.304 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Obsolete Monolithic-Memories AMD PLD 16L8 PAL16L8-7PC PAL16L8-7JC PAL16L8D/2PC PAL16L8B-2CN PAL16L8ACN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP*W7.62mm* *PLCC*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PAL16L8_0_0"
+				(pin power_in line
+					(at 0 -15.24 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PAL16L8_0_1"
+				(rectangle
+					(start -7.62 15.24)
+					(end 7.62 -12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "PAL16L8_1_0"
+				(pin power_in line
+					(at 0 17.78 270)
+					(length 2.54)
+					(name "V_{CC}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PAL16L8_1_1"
+				(pin input line
+					(at -10.16 12.7 0)
+					(length 2.54)
+					(name "I_{0}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 10.16 0)
+					(length 2.54)
+					(name "I_{1}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 7.62 0)
+					(length 2.54)
+					(name "I_{2}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 5.08 0)
+					(length 2.54)
+					(name "I_{3}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name "I_{4}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 0 0)
+					(length 2.54)
+					(name "I_{5}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "I_{6}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -5.08 0)
+					(length 2.54)
+					(name "I_{7}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -7.62 0)
+					(length 2.54)
+					(name "I_{8}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -10.16 0)
+					(length 2.54)
+					(name "I_{9}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin tri_state line
+					(at 10.16 12.7 180)
+					(length 2.54)
+					(name "~{O_{1}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 10.16 180)
+					(length 2.54)
+					(name "I/~{O_{2}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 7.62 180)
+					(length 2.54)
+					(name "I/~{O_{3}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 5.08 180)
+					(length 2.54)
+					(name "I/~{O_{4}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "I/~{O_{5}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "I/~{O_{6}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name "I/~{O_{7}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin tri_state line
+					(at 10.16 -5.08 180)
+					(length 2.54)
+					(name "~{O_{8}}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "cg4:74LS175_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -7.62 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "74F175"
+				(at -7.62 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS175"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "4-bit D Flip-Flop, reset"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "TTL REG REG4 DFF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP?16*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "74LS175_1_1_0"
+				(pin input line
+					(at -12.7 10.16 0)
+					(length 5.08)
+					(name "D0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 5.08 0)
+					(length 5.08)
+					(name "D1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 -5.08 0)
+					(length 5.08)
+					(name "D3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at -12.7 -10.16 0)
+					(length 5.08)
+					(name "Cp"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 -12.7 0)
+					(length 5.08)
+					(name "~{Mr}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 17.78 270)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -20.32 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 10.16 180)
+					(length 5.08)
+					(name "Q0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "~{Q0}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "Q1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "~{Q1}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "Q2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "~{Q2}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "Q3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -7.62 180)
+					(length 5.08)
+					(name "~{Q3}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "74LS175_1_1_1"
+				(rectangle
+					(start -7.62 12.7)
+					(end 7.62 -15.24)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "VIDEO8"
+		(exclude_from_sim no)
+		(at 152.908 23.368 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "128068cd-db2d-431d-b01c-1b6d8aa9d962")
+	)
+	(text "VIDEO10"
+		(exclude_from_sim no)
+		(at 153.924 114.808 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "464f3b14-f243-4721-8be9-242b77a496e1")
+	)
+	(text "VIDEO5"
+		(exclude_from_sim no)
+		(at 69.088 20.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6a55e376-9b5f-492e-8d31-d29a370f7f6d")
+	)
+	(text "VIDEO9"
+		(exclude_from_sim no)
+		(at 152.908 70.358 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a7a9759f-be11-426b-9f29-05c9548f05a5")
+	)
+	(symbol
+		(lib_id "Logic_Programmable:PAL16L8")
+		(at 153.67 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29213b37-7f39-46fe-a6d3-eb2da3a2a606")
+		(property "Reference" "U44"
+			(at 155.8133 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PAL16L8"
+			(at 155.8133 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://docs.rs-online.com/53eb/0900766b8002a354.pdf"
+			(at 153.67 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-20 / PLCC-20"
+			(at 153.924 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "16e98221-e4fc-4811-a555-f5270e381364")
+		)
+		(pin "3"
+			(uuid "ec3e7e1a-1597-404b-8472-acf59636a24d")
+		)
+		(pin "12"
+			(uuid "d4f9fec3-cbb4-43a8-81eb-7e9a1060c38d")
+		)
+		(pin "18"
+			(uuid "e9249445-22a4-4184-8ef7-294c84b786cc")
+		)
+		(pin "15"
+			(uuid "6dc5953a-e608-433b-ba2a-159ff164ea3c")
+		)
+		(pin "17"
+			(uuid "02ab5562-e979-4e26-be47-668738ecd454")
+		)
+		(pin "16"
+			(uuid "fc656b27-0de5-4f22-b5d7-251647cd8fbd")
+		)
+		(pin "9"
+			(uuid "12fab282-6849-4382-a8ca-ccc35fc64d2a")
+		)
+		(pin "13"
+			(uuid "54dc0ff9-4ec2-4ceb-bf72-a49778655d89")
+		)
+		(pin "20"
+			(uuid "d56261fb-8aa9-4bd5-8718-3dc356e0877c")
+		)
+		(pin "8"
+			(uuid "b24aa350-e79d-41dc-9607-160038488e68")
+		)
+		(pin "19"
+			(uuid "ef6bc69d-cf03-4325-8f67-da38d9d1d7e4")
+		)
+		(pin "14"
+			(uuid "1ae73858-1dd7-47e2-b21f-a19be4811235")
+		)
+		(pin "6"
+			(uuid "93850b0e-c6ef-4f29-8209-ab7012441ef2")
+		)
+		(pin "1"
+			(uuid "e492f027-4364-4914-8323-1d5a4d91e461")
+		)
+		(pin "4"
+			(uuid "1670f631-cf1f-422d-ab8c-8b8ee2f4b1c6")
+		)
+		(pin "10"
+			(uuid "f07b1c65-a8f9-4430-8cd1-b28d2ca79144")
+		)
+		(pin "11"
+			(uuid "e4d8e397-b45d-4814-bcb8-00d1f0f5b80d")
+		)
+		(pin "5"
+			(uuid "1d5b14df-143a-4886-9184-533bb0e8001d")
+		)
+		(pin "7"
+			(uuid "d8c7f662-5001-4625-89a4-aed7c39ac592")
+		)
+		(instances
+			(project "cg4"
+				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
+					(reference "U44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Logic_Programmable:PAL16L8")
+		(at 153.67 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4fed3203-08ef-426e-b6da-c9c08f11cfd4")
+		(property "Reference" "U45"
+			(at 155.8133 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PAL16L8"
+			(at 155.8133 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://docs.rs-online.com/53eb/0900766b8002a354.pdf"
+			(at 153.67 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-20 / PLCC-20"
+			(at 153.924 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1586afe2-f21a-45f0-9a2f-8ef8e04ae3d1")
+		)
+		(pin "3"
+			(uuid "879c58ae-e808-4cc5-816a-84b4aeb04056")
+		)
+		(pin "12"
+			(uuid "7974f70c-a825-44a5-996b-5eb252bf9b9d")
+		)
+		(pin "18"
+			(uuid "7522dd58-20db-4ca9-a97f-2b8c1aebc3b1")
+		)
+		(pin "15"
+			(uuid "9ac4acf3-9353-4758-9d61-c28c47470c0f")
+		)
+		(pin "17"
+			(uuid "9c9ffc3e-0c7e-47ea-9f6a-6b859214e409")
+		)
+		(pin "16"
+			(uuid "ade9d954-c2b8-4b09-be57-eb5b481cd0d2")
+		)
+		(pin "9"
+			(uuid "7c6d543e-d388-41ca-ab46-210b7fe5f4e7")
+		)
+		(pin "13"
+			(uuid "f0b4f69d-6e91-4335-a450-f4b33c0df91e")
+		)
+		(pin "20"
+			(uuid "61135933-f3af-4980-8898-fb49f5872c08")
+		)
+		(pin "8"
+			(uuid "c55fabd9-6924-4b25-8692-a8efeaa42f5a")
+		)
+		(pin "19"
+			(uuid "b55f2526-f8f6-46a6-8c28-22291d12d18f")
+		)
+		(pin "14"
+			(uuid "131b883c-e345-4c8c-91ba-5ea35b002eac")
+		)
+		(pin "6"
+			(uuid "81bd90db-b21d-4d48-9c4e-a2b9df298050")
+		)
+		(pin "1"
+			(uuid "651e6fd1-02c1-4a6b-9e6e-c7215a746785")
+		)
+		(pin "4"
+			(uuid "28e1d171-e322-4a19-af95-c945a08baa77")
+		)
+		(pin "10"
+			(uuid "97f5a41b-9b01-401c-adde-0702c2e16d8f")
+		)
+		(pin "11"
+			(uuid "10c5cf02-266a-46b6-bb43-78e1c34686ae")
+		)
+		(pin "5"
+			(uuid "fb2785cc-d326-4034-87a1-e90559175d9a")
+		)
+		(pin "7"
+			(uuid "3a2225b9-31b4-4635-9e16-8aaede178b01")
+		)
+		(instances
+			(project "cg4"
+				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
+					(reference "U45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "cg4:74LS175_1")
+		(at 38.1 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f4a2a7f-1892-477d-979e-af3d8b0bdb0c")
+		(property "Reference" "U10"
+			(at 40.2433 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "74F175"
+			(at 40.2433 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS175"
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "4-bit D Flip-Flop, reset"
+			(at 38.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "75034ed6-4880-408f-baf9-bf4e9efe3450")
+		)
+		(pin "1"
+			(uuid "a0b2b6b5-b1ef-4ebd-8c6e-933da6356ebb")
+		)
+		(pin "5"
+			(uuid "77b39a36-9d6a-49dc-a448-1411a01bfb4d")
+		)
+		(pin "12"
+			(uuid "88b4e7f8-1009-42aa-933f-fab162fbe98e")
+		)
+		(pin "13"
+			(uuid "884598fb-efd2-4519-a566-e18dbe1b9b43")
+		)
+		(pin "6"
+			(uuid "106d2bf2-df8e-4caf-aec1-9b0f9752841b")
+		)
+		(pin "10"
+			(uuid "85bd983f-86af-4337-b238-4739a09e424f")
+		)
+		(pin "11"
+			(uuid "605818dd-9ad4-4344-b0c5-b51a4930bb1c")
+		)
+		(pin "15"
+			(uuid "729d185a-cb22-45ac-84a7-4966b7721c7c")
+		)
+		(pin "14"
+			(uuid "f5dc767e-ffbe-4b9a-afb2-17003e43680b")
+		)
+		(pin "16"
+			(uuid "46d6852a-8370-4404-9338-21c4c9137af5")
+		)
+		(pin "8"
+			(uuid "cfca2431-dfbf-47e5-afb3-ed309fa43c54")
+		)
+		(pin "2"
+			(uuid "e6e99b2c-1714-44bd-97e3-e2c7a49bc90a")
+		)
+		(pin "3"
+			(uuid "b52b1829-ae21-4e7e-b590-10371d517ca8")
+		)
+		(pin "7"
+			(uuid "faf206f5-8a6d-452c-bccd-7fe8d50d73d3")
+		)
+		(pin "4"
+			(uuid "273ef2d4-f3ce-4e4a-85b1-f16c8ab8418f")
+		)
+		(instances
+			(project ""
+				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Logic_Programmable:PAL16L8")
+		(at 69.85 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92c8ff48-bab0-4ef0-8561-9196b72e2047")
+		(property "Reference" "U42"
+			(at 71.9933 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PAL16L8"
+			(at 71.9933 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://docs.rs-online.com/53eb/0900766b8002a354.pdf"
+			(at 69.85 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-20 / PLCC-20"
+			(at 70.104 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5cef862a-49bd-45cc-91b2-ca1e84c29759")
+		)
+		(pin "3"
+			(uuid "5650b931-b8c8-45f4-bab9-7c77f5e392db")
+		)
+		(pin "12"
+			(uuid "0d79e7e8-4a7f-445b-bec6-7163c723ab9d")
+		)
+		(pin "18"
+			(uuid "bd4ebbb0-9645-48d7-94ff-c9356c7bed9e")
+		)
+		(pin "15"
+			(uuid "13c8da6f-bbbb-456f-afef-10ed09a94e88")
+		)
+		(pin "17"
+			(uuid "781c9dd6-70e4-4ebf-a9cd-be91a4f7e9db")
+		)
+		(pin "16"
+			(uuid "105dddc6-05a5-4736-83e4-1e1de43dd975")
+		)
+		(pin "9"
+			(uuid "03e07575-585e-43b6-bcf2-01bc1e6e6a90")
+		)
+		(pin "13"
+			(uuid "ea71ef80-66c3-4e7a-b72e-409036314911")
+		)
+		(pin "20"
+			(uuid "e1a51fa5-2d4c-4b07-ac71-d2cdf00f2e8f")
+		)
+		(pin "8"
+			(uuid "3c7f2652-7848-4acd-b563-37cb78f22a51")
+		)
+		(pin "19"
+			(uuid "cbf7ceba-8b22-499a-b3b3-5d385b2cb213")
+		)
+		(pin "14"
+			(uuid "ea8fe46b-f103-4673-9a4f-e60c603c44fa")
+		)
+		(pin "6"
+			(uuid "1511223f-a886-4ef9-8bed-eef34084b425")
+		)
+		(pin "1"
+			(uuid "b9adc36e-5c5b-4f44-b4e3-6bc11d4f0be7")
+		)
+		(pin "4"
+			(uuid "e112d709-264c-4267-8229-2200f5df9686")
+		)
+		(pin "10"
+			(uuid "f21fd2ec-7eea-4c83-a8e2-2e14b18bee15")
+		)
+		(pin "11"
+			(uuid "f75d95fd-c279-439b-ae05-25e71c384ca2")
+		)
+		(pin "5"
+			(uuid "8897c9f9-8831-44b5-bb13-1f3700df26dd")
+		)
+		(pin "7"
+			(uuid "b43d2e0f-b26b-4d92-baa9-3c6115da4b56")
+		)
+		(instances
+			(project ""
+				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
+					(reference "U42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Logic_Programmable:PAL16L8")
+		(at 153.67 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e716a11a-86a6-437d-93f9-452457cb2f36")
+		(property "Reference" "U43"
+			(at 155.8133 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PAL16L8"
+			(at 155.8133 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://docs.rs-online.com/53eb/0900766b8002a354.pdf"
+			(at 153.67 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Programmable Array Logic (PAL), Active-Low Combinatorial, DIP-20 / PLCC-20"
+			(at 153.924 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1de47eb4-143f-404a-b47c-f6fe078cfd36")
+		)
+		(pin "3"
+			(uuid "c3bdb341-1352-4368-9a65-fe5e878500d1")
+		)
+		(pin "12"
+			(uuid "36cfb609-d9e8-403e-bd03-717efe641f82")
+		)
+		(pin "18"
+			(uuid "c39f8afb-1125-47d9-a948-f4d1996413f5")
+		)
+		(pin "15"
+			(uuid "10867f6e-38b2-410b-a400-843d42b80898")
+		)
+		(pin "17"
+			(uuid "1cfc2f99-af13-43eb-86ab-3e17405eac4a")
+		)
+		(pin "16"
+			(uuid "b76e6b36-7f8a-4517-bad5-21399c7720b7")
+		)
+		(pin "9"
+			(uuid "c4fd49e4-7dcb-4990-84cb-7ef420245a07")
+		)
+		(pin "13"
+			(uuid "8e2c2b77-a650-4213-a680-dd27ffce3d81")
+		)
+		(pin "20"
+			(uuid "b64689be-a23a-4daf-bcac-66321a7adaa3")
+		)
+		(pin "8"
+			(uuid "57062c1e-5bf4-49fa-9d09-d3fdbef533c3")
+		)
+		(pin "19"
+			(uuid "455503cf-70f2-4dab-9d43-7282c24b6648")
+		)
+		(pin "14"
+			(uuid "e8ae1345-3200-4f68-acde-94293540b56a")
+		)
+		(pin "6"
+			(uuid "0fe1c8de-1bd8-47c2-80ed-7f75c7c5dd24")
+		)
+		(pin "1"
+			(uuid "d26e60b2-e079-41b8-af88-6719680f2ffc")
+		)
+		(pin "4"
+			(uuid "e89fb19b-bfa5-437e-80fd-8d321bdf98ba")
+		)
+		(pin "10"
+			(uuid "c29d738c-1d3e-429f-a817-c1f5037c1b06")
+		)
+		(pin "11"
+			(uuid "8c1a9c2d-5b9c-42e6-87b8-4a1e98d83bcd")
+		)
+		(pin "5"
+			(uuid "7ab7d28e-b448-4b92-9d9e-5f3b1e10765c")
+		)
+		(pin "7"
+			(uuid "e533db5a-9211-476f-ba78-32db1a83852f")
+		)
+		(instances
+			(project "cg4"
+				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
+					(reference "U43")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
