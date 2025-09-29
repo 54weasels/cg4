@@ -16032,7 +16032,7 @@
 		)
 		(uuid "fff81551-85b3-4121-97ab-5bf4efdf3062")
 	)
-	(hierarchical_label "V.C.D[0..7]"
+	(hierarchical_label "V.C.D[0..9]"
 		(shape output)
 		(at 223.52 125.73 180)
 		(effects
@@ -16153,7 +16153,7 @@
 		)
 		(uuid "81fd3866-e37c-478b-bb01-fbd48ba21a4f")
 	)
-	(hierarchical_label "V.D.D[0..7]"
+	(hierarchical_label "V.D.D[0..9]"
 		(shape output)
 		(at 322.58 125.73 180)
 		(effects
@@ -16186,7 +16186,7 @@
 		)
 		(uuid "98c0b538-4255-460e-acd7-9ef2a76744a6")
 	)
-	(hierarchical_label "V.B.D[0..7]"
+	(hierarchical_label "V.B.D[0..9]"
 		(shape output)
 		(at 123.19 125.73 180)
 		(effects
@@ -16241,7 +16241,7 @@
 		)
 		(uuid "a5c3f985-478f-48f0-910d-1b07d64d18a0")
 	)
-	(hierarchical_label "V.A.D[0..7]"
+	(hierarchical_label "V.A.D[0..9]"
 		(shape output)
 		(at 25.4 128.27 180)
 		(effects
