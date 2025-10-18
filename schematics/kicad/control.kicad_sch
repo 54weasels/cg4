@@ -9660,6 +9660,17 @@
 		)
 		(uuid "0b49640b-7f8a-475b-b021-c6e5a7f18ba8")
 	)
+	(hierarchical_label "V.VID-"
+		(shape output)
+		(at 92.71 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0fc62d96-252a-41f3-8964-4a3b14a56131")
+	)
 	(hierarchical_label "SIZ1"
 		(shape input)
 		(at 229.87 27.94 180)
