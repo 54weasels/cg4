@@ -6675,6 +6675,98 @@
 		(color 0 0 0 0)
 		(uuid "ff994524-c4fc-4879-b338-0ff0b629883a")
 	)
+	(no_connect
+		(at 279.4 95.25)
+		(uuid "0480ac28-6ce6-4904-92c1-18d95cd33c0c")
+	)
+	(no_connect
+		(at 280.67 146.05)
+		(uuid "187aecca-3751-4c86-adf3-0ec0ca4d286d")
+	)
+	(no_connect
+		(at 280.67 140.97)
+		(uuid "25ae95df-4a73-4b69-a5aa-9597f13f1013")
+	)
+	(no_connect
+		(at 242.57 148.59)
+		(uuid "28215c07-f0f8-4ba3-8a5c-fa843dc89349")
+	)
+	(no_connect
+		(at 260.35 143.51)
+		(uuid "2caaa3d6-5026-4723-9157-5d5a28004bf6")
+	)
+	(no_connect
+		(at 294.64 107.95)
+		(uuid "40fd0d65-98fa-4061-9582-e5a0a99125bb")
+	)
+	(no_connect
+		(at 280.67 148.59)
+		(uuid "4b4a3917-9635-43d0-9ae9-c5cd280b7d36")
+	)
+	(no_connect
+		(at 294.64 87.63)
+		(uuid "60ad9364-f780-42f0-92a5-3a60726d9608")
+	)
+	(no_connect
+		(at 143.51 181.61)
+		(uuid "675b7cda-e57f-4455-aa79-6593d364f1c0")
+	)
+	(no_connect
+		(at 260.35 146.05)
+		(uuid "67837fdd-9557-46da-b0ca-c64006ebf865")
+	)
+	(no_connect
+		(at 260.35 151.13)
+		(uuid "713a1ef3-4012-4233-87fe-25adfc6717ef")
+	)
+	(no_connect
+		(at 260.35 148.59)
+		(uuid "74541fad-cd27-49e1-8f07-799a0b218e0a")
+	)
+	(no_connect
+		(at 260.35 153.67)
+		(uuid "82d4d7a1-0afd-47f5-9044-2cf107b691e6")
+	)
+	(no_connect
+		(at 260.35 156.21)
+		(uuid "905f74be-65be-4050-95bc-d27dfb6d72e1")
+	)
+	(no_connect
+		(at 298.45 146.05)
+		(uuid "a21a1d09-f56c-421b-ad6f-3c83f626117b")
+	)
+	(no_connect
+		(at 280.67 143.51)
+		(uuid "bbb1aa28-505f-4a45-9c00-8f750c0cb230")
+	)
+	(no_connect
+		(at 294.64 92.71)
+		(uuid "c7852c1f-b30d-444d-86fd-34d0a4fc2cb1")
+	)
+	(no_connect
+		(at 242.57 143.51)
+		(uuid "d51348d3-05e7-455c-8662-b29fa881bdb0")
+	)
+	(no_connect
+		(at 242.57 153.67)
+		(uuid "d6a67f25-ad19-4c22-a0dd-d8bebdafb37f")
+	)
+	(no_connect
+		(at 279.4 90.17)
+		(uuid "e263a1ec-c95a-4b7c-a90b-b392705a7029")
+	)
+	(no_connect
+		(at 279.4 85.09)
+		(uuid "eaea7a2a-435f-4a1a-b716-e482f2e33cc1")
+	)
+	(no_connect
+		(at 279.4 102.87)
+		(uuid "fa3faafc-910c-492c-b4a3-d3dc0f4a6e2c")
+	)
+	(no_connect
+		(at 298.45 143.51)
+		(uuid "ffeae94a-e631-462e-ab66-3de1d3a01176")
+	)
 	(bus_entry
 		(at 33.02 40.64)
 		(size 2.54 2.54)
@@ -14322,7 +14414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 138.43 119.38 0)
 			(effects
 				(font
@@ -14562,7 +14654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 202.946 81.534 90)
 			(effects
 				(font
@@ -14614,7 +14706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1990ca1d-73ad-4a1c-9c0c-1092267435cf")
-		(property "Reference" "U1"
+		(property "Reference" "U1310"
 			(at 176.53 13.97 0)
 			(effects
 				(font
@@ -14912,7 +15004,7 @@
 		(instances
 			(project ""
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/29ede95e-baf3-44af-bd6e-b3be323fd399"
-					(reference "U1")
+					(reference "U1310")
 					(unit 1)
 				)
 			)
@@ -15010,7 +15102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 271.78 34.29 0)
 			(effects
 				(font
@@ -15077,7 +15169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.964 117.094 90)
 			(effects
 				(font
@@ -15279,7 +15371,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 138.43 43.18 0)
 			(effects
 				(font
@@ -15517,7 +15609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 271.78 24.13 0)
 			(effects
 				(font
@@ -15721,7 +15813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 247.3452 53.34 0)
 			(effects
 				(font
@@ -15791,7 +15883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 235.966 49.784 90)
 			(effects
 				(font
@@ -15995,7 +16087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 195.2752 33.02 0)
 			(effects
 				(font
@@ -16065,7 +16157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 254.9652 33.02 0)
 			(effects
 				(font
@@ -16207,7 +16299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 201.6252 53.34 0)
 			(effects
 				(font
@@ -16258,7 +16350,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86c45d20-3746-4888-913a-64124edd4564")
-		(property "Reference" "R1"
+		(property "Reference" "R1303"
 			(at 217.17 80.0099 0)
 			(effects
 				(font
@@ -16276,7 +16368,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 215.646 81.534 90)
 			(effects
 				(font
@@ -16312,7 +16404,7 @@
 		(instances
 			(project "cg4"
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/29ede95e-baf3-44af-bd6e-b3be323fd399"
-					(reference "R1")
+					(reference "R1303")
 					(unit 1)
 				)
 			)
@@ -16346,7 +16438,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 240.9952 33.02 0)
 			(effects
 				(font
@@ -16479,7 +16571,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.964 104.394 90)
 			(effects
 				(font
@@ -16531,7 +16623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a91383b-a429-492e-bb76-b177b0af65f7")
-		(property "Reference" "R2"
+		(property "Reference" "R1304"
 			(at 229.87 80.0099 0)
 			(effects
 				(font
@@ -16549,7 +16641,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 228.346 81.534 90)
 			(effects
 				(font
@@ -16585,7 +16677,7 @@
 		(instances
 			(project "cg4"
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/29ede95e-baf3-44af-bd6e-b3be323fd399"
-					(reference "R2")
+					(reference "R1304")
 					(unit 1)
 				)
 			)
@@ -16674,7 +16766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7fac549-8a09-4442-b3f0-200692fd6086")
-		(property "Reference" "U2"
+		(property "Reference" "U1312"
 			(at 251.46 130.81 0)
 			(effects
 				(font
@@ -16768,7 +16860,7 @@
 		(instances
 			(project ""
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/29ede95e-baf3-44af-bd6e-b3be323fd399"
-					(reference "U2")
+					(reference "U1312")
 					(unit 1)
 				)
 			)
@@ -16912,7 +17004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 220.726 49.784 90)
 			(effects
 				(font
@@ -17114,7 +17206,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Dsub:DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm"
 			(at 262.89 87.63 0)
 			(effects
 				(font
@@ -17220,7 +17312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.964 123.444 90)
 			(effects
 				(font
@@ -17421,7 +17513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 219.964 110.744 90)
 			(effects
 				(font
@@ -17491,7 +17583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 144.78 184.15 0)
 			(effects
 				(font
@@ -17579,7 +17671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f366c30b-1025-4fe0-8208-13f7abb5c474")
-		(property "Reference" "U3"
+		(property "Reference" "U1313"
 			(at 289.56 120.65 0)
 			(effects
 				(font
@@ -17673,7 +17765,7 @@
 		(instances
 			(project ""
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/29ede95e-baf3-44af-bd6e-b3be323fd399"
-					(reference "U3")
+					(reference "U1313")
 					(unit 1)
 				)
 			)
@@ -17705,7 +17797,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 138.43 68.58 0)
 			(effects
 				(font
@@ -17809,7 +17901,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 138.43 93.98 0)
 			(effects
 				(font
@@ -17915,7 +18007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm"
 			(at 195.2752 63.5 0)
 			(effects
 				(font

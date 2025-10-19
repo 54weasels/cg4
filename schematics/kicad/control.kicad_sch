@@ -10309,7 +10309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 31.496 193.294 90)
 			(effects
 				(font
@@ -10731,7 +10731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f4a2a7f-1892-477d-979e-af3d8b0bdb0c")
-		(property "Reference" "U10"
+		(property "Reference" "U1015"
 			(at 49.1333 57.15 0)
 			(effects
 				(font
@@ -10827,7 +10827,7 @@
 		(instances
 			(project ""
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
-					(reference "U10")
+					(reference "U1015")
 					(unit 1)
 				)
 			)
@@ -11713,7 +11713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0722640-ef06-4525-aca8-7d9f1e63929b")
-		(property "Reference" "U5"
+		(property "Reference" "U1000"
 			(at 50.8 146.05 0)
 			(effects
 				(font
@@ -11819,7 +11819,7 @@
 		(instances
 			(project "cg4"
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
-					(reference "U5")
+					(reference "U1000")
 					(unit 1)
 				)
 			)
@@ -12381,22 +12381,20 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff88a083-265b-4845-b507-78a7a1df2884")
-		(property "Reference" "U6"
-			(at 78.7401 151.13 0)
+		(property "Reference" "U1021"
+			(at 77.47 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "330Ω"
-			(at 76.2001 151.13 0)
+			(at 77.47 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
@@ -12477,7 +12475,7 @@
 		(instances
 			(project "cg4"
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e/15921a63-59ee-470b-ba0e-36a85e35c802"
-					(reference "U6")
+					(reference "U1021")
 					(unit 1)
 				)
 			)
