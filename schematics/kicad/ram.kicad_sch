@@ -15092,6 +15092,16 @@
 		)
 		(uuid "657ea9b5-0b99-4692-8012-d656ce70b04c")
 	)
+	(label "VCC"
+		(at 204.47 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "678921a1-fd65-40b4-8094-5c654e2ebff5")
+	)
 	(label "GND"
 		(at 195.58 210.82 0)
 		(effects

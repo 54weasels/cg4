@@ -9671,6 +9671,17 @@
 		)
 		(uuid "0fc62d96-252a-41f3-8964-4a3b14a56131")
 	)
+	(hierarchical_label "CS.DAC-"
+		(shape output)
+		(at 92.71 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "139a5818-7b41-4348-8f4d-3247ad981b7a")
+	)
 	(hierarchical_label "SIZ1"
 		(shape input)
 		(at 229.87 27.94 180)
