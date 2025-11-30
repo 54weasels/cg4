@@ -93,6 +93,10 @@
 		(at 43.18 68.58)
 		(uuid "5c9207ab-945d-4f4f-8b5f-171f34d4d043")
 	)
+	(no_connect
+		(at 43.18 73.66)
+		(uuid "ccc062e8-8306-4c60-aa39-6e67f5063b3f")
+	)
 	(bus_entry
 		(at 172.72 127)
 		(size 2.54 2.54)
@@ -1715,7 +1719,7 @@
 				(justify left)
 			)
 		)
-		(pin "W.RE-4[0..3]" output
+		(pin "W.RE-4[0..1]" output
 			(at 138.43 83.82 180)
 			(uuid "a3df5798-8c89-4529-a6cc-d01bae8bb591")
 			(effects
@@ -1725,7 +1729,7 @@
 				(justify left)
 			)
 		)
-		(pin "W.RE-5[0..3]" output
+		(pin "W.RE-5[0..1]" output
 			(at 138.43 86.36 180)
 			(uuid "7868bf8d-2c84-480e-9bfb-311a45e18215")
 			(effects
@@ -2257,6 +2261,16 @@
 				(justify right)
 			)
 		)
+		(pin "P4DS-" output
+			(at 43.18 73.66 180)
+			(uuid "8c797ef0-f045-411f-8a49-6198ca4b463f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "cg4"
 				(path "/7c2b6a13-c303-4adb-8eed-6e6a9ac5307e"
@@ -2519,7 +2533,7 @@
 				(justify left)
 			)
 		)
-		(pin "W.RE-4[0..3]" input
+		(pin "W.RE-4[0..1]" input
 			(at 138.43 127 180)
 			(uuid "049cad23-505c-4265-8bbc-999e1535e1a9")
 			(effects
@@ -2529,7 +2543,7 @@
 				(justify left)
 			)
 		)
-		(pin "W.RE-5[0..3]" input
+		(pin "W.RE-5[0..1]" input
 			(at 138.43 129.54 180)
 			(uuid "1fb67b80-7855-4135-a6b2-616f8b77d119")
 			(effects
