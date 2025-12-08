@@ -13494,7 +13494,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 106.68) (xy 41.91 102.87)
+			(xy 41.91 104.14) (xy 41.91 102.87)
 		)
 		(stroke
 			(width 0)
@@ -19386,7 +19386,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 41.91 106.68 0)
+		(at 41.91 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19395,7 +19395,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae902c90-caf0-4e47-8432-44e273010cad")
 		(property "Reference" "#PWR01"
-			(at 41.91 110.49 0)
+			(at 41.91 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19404,7 +19404,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 41.91 101.6 0)
+			(at 41.91 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19412,7 +19412,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 106.68 0)
+			(at 41.91 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19421,7 +19421,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 106.68 0)
+			(at 41.91 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19430,7 +19430,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 41.91 106.68 0)
+			(at 41.91 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)

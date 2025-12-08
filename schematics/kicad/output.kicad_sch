@@ -13816,7 +13816,7 @@
 		)
 		(uuid "b7f01bf9-669d-4f30-8171-2acf13c8e000")
 	)
-	(label "GND"
+	(label "AGND"
 		(at 161.29 146.05 180)
 		(effects
 			(font
@@ -14176,7 +14176,7 @@
 		)
 		(uuid "f5ce9870-0a44-4361-9834-e5749d9c6c48")
 	)
-	(label "VCC"
+	(label "AVCC"
 		(at 162.56 156.21 180)
 		(effects
 			(font
