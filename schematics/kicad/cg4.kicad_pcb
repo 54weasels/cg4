@@ -41094,6 +41094,19 @@
 				)
 			)
 		)
+		(property "BOM" "https://www.digikey.com/en/products/detail/harting/09731326903/4323910"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88305d27-b496-4bb2-8caa-92cb88aec37c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIN41612*3x*")
 		(path "/1e4cb93f-b1a2-43f5-bc06-3785820075fb/e9de4d4c-c81d-48f1-816c-e008727a00a6")
 		(sheetname "/Misc/")
