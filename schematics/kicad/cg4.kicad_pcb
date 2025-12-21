@@ -1065,13 +1065,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 5.08 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "0f0f408d-86a3-48d5-8a05-0ddb84072976")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -1286,14 +1287,15 @@
 			(uuid "ea9faf24-957f-48e7-80dc-36ce800cf480")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 7.62 0)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "B.SilkS")
 			(uuid "943f2dbc-2cdc-4153-b40a-532c3093b6da")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -1974,14 +1976,15 @@
 			(uuid "08d4cb6f-b8c2-4193-86cc-67fc118b0e94")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 13.97 0)
-			(layer "F.Fab")
+			(at 3.81 13.97 180)
+			(layer "B.SilkS")
 			(uuid "8ad3861c-5dc9-4870-a84c-c157eabe45ff")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -2394,13 +2397,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 5.08 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "7d8ab829-629a-4173-90a0-f1269da3ca49")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -2988,14 +2992,15 @@
 			(uuid "7f0f26c1-ef47-4b72-ab1d-92af94c8f2c2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "786f5f12-3867-4b4b-91a3-7cb69fde93b1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -3152,13 +3157,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "21b8ec8d-3aae-44d6-ae6b-f7d14ca19703")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -3315,13 +3321,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "e3916752-1764-4a10-a314-77f49801f510")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -3478,13 +3485,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "ca82278e-d42a-4004-a3fc-6c54870ea8ff")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -3641,13 +3649,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "2e3529a6-f527-477f-9066-12d1ee358fad")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -3862,14 +3871,15 @@
 			(uuid "60ae842f-ab7c-4748-bae9-7c7a60c46c7d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "7f35b74c-1b77-4722-9435-18b7c1eac9cc")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -4242,13 +4252,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 11.43 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "150e8da0-1e7c-43cb-b8bc-c0678a348730")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -4664,14 +4675,15 @@
 			(uuid "02bac642-3b76-46b1-a5bf-56f0e22bcc2d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "3ebc7a44-2b70-40bd-b87d-1a9b6b2bdc4b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -5450,13 +5462,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "5c17522f-e936-42fc-9a1b-1251d4fa067d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -5671,14 +5684,15 @@
 			(uuid "5a69eee5-79e2-456b-85c1-aa940f49ef8c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "509c6e5a-b5a5-47c5-9ffb-b24d0e8e4cdc")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -6888,14 +6902,15 @@
 			(uuid "cbbb6710-b3c6-47d0-8004-da844c1e23e2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.35 0 0)
-			(layer "F.Fab")
+			(at 6.35 0 180)
+			(layer "B.SilkS")
 			(uuid "2d5526fb-051f-43b1-9c6a-858b28bce006")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -9168,13 +9183,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 5.08 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "b7d9a300-5f84-4dc6-938f-737d5bae509b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -9752,13 +9768,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "c37e98f4-6214-4fe3-a117-626f218a8121")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -9915,13 +9932,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "9e67298d-401a-4abe-8556-88687941807b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -10078,13 +10096,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "29a8483e-21f1-40d7-bfd3-ed9dbdcff4e8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -10300,14 +10319,15 @@
 			(uuid "337c9dfe-194e-40ca-8793-078bd9ee8ffa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "f1b8c1c9-0d09-48e7-9caf-12b80da01fad")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -10621,13 +10641,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "127662be-b1a6-48cb-937b-3f7ae3aba293")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -11684,14 +11705,15 @@
 			(uuid "f229ca5c-5840-4305-bd42-f58aaaadd85b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "a1094c92-30ae-4353-8a79-7a786f29c43d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -13268,13 +13290,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "f5d474ff-8bd6-471a-a7cd-7163732e7c2f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -13431,13 +13454,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "bc4e8aa6-8cbd-4cc7-a38e-9ee6c1941e1c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -13653,14 +13677,15 @@
 			(uuid "dd23ef5c-ef0c-453a-b865-6ca2c9e4bdd2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "aa281fd1-a837-4864-be74-10c26dab198c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -14395,13 +14420,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "45716147-588e-4c4d-bbbe-bd78c8591cf1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -14519,15 +14545,16 @@
 			(uuid "9d7b363f-56a0-4ca0-8162-7d361c97437f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.5 180)
+			(at 0 2.5 0)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "188d99b8-bb18-40d1-8997-dc2938cb6765")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -15577,13 +15604,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "91b48b26-0129-4e07-9d78-5bf7407b2388")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -16161,13 +16189,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "9909fade-bd7b-4c12-b342-fab3ca13cf77")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -16382,14 +16411,15 @@
 			(uuid "1a86cc20-23bf-46c1-8dd4-b4536670c1f4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 13.97 0)
-			(layer "F.Fab")
+			(at 3.81 13.97 180)
+			(layer "B.SilkS")
 			(uuid "4896c516-eae9-4e75-8ff4-00c0e24a26a7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -17271,13 +17301,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "270e77c9-1b39-4328-8ecf-9234ce6d013b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -17649,14 +17680,15 @@
 			(uuid "cc8ae575-fd72-490d-8a2b-a2e105f60e69")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "bd2c3bfa-5c04-45c1-8535-3fa4da90f0de")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -18072,14 +18104,15 @@
 			(uuid "f7ce9035-b18d-46a4-90e9-910a70b12d85")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "860663a1-56a6-4142-983f-c8609e8995ea")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -18403,14 +18436,15 @@
 			(uuid "5db5cbee-6eb4-45ec-be45-6e416f4c19a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "e1433bcf-598e-47b4-a25b-04d3c684d745")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -18626,14 +18660,15 @@
 			(uuid "3b746ab9-f7cd-4001-8f1c-1725346136c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "7ab4f414-423c-42b4-8dc1-eeb0eccb1771")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -18947,13 +18982,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "adb178d9-1fbb-4cc4-a096-85ea35a5177a")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -19531,13 +19567,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "9a624fcc-49e6-41bb-a58f-34716f5979cb")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -19694,13 +19731,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "e7b8825f-6103-4ed4-a855-38887dc69a27")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -19915,14 +19953,15 @@
 			(uuid "84b5b8a8-b1b2-418e-95ba-e429ab538211")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "b1682e38-9a87-41dc-b33f-5d1055b9b48c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -20246,14 +20285,15 @@
 			(uuid "106b6133-4a78-422e-992b-7b839f97cb42")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "08611c40-e8c0-4b56-8055-d29bc6640bcf")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -20410,13 +20450,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "fe58eb34-858b-4244-8676-55b2806f3b74")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -20573,13 +20614,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "cb18d69f-7a40-490e-93ad-48988723947d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -20735,14 +20777,15 @@
 			(uuid "d4de8a21-860a-4cd5-9730-1d9c6b24f0fa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
-			(layer "F.Fab")
+			(at 2.5 0 180)
+			(layer "B.SilkS")
 			(uuid "cd707732-d45d-4750-bdee-9563d0ef25f1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -21198,14 +21241,15 @@
 			(uuid "5a2d9529-3623-4dc4-876a-6fdfd15348c9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.315 16.83 0)
-			(layer "F.Fab")
+			(at -4.315 9.1917 180)
+			(layer "B.SilkS")
 			(uuid "1e6e114b-ebf6-4129-b67b-15eee5a3982f")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "0" thru_hole circle
@@ -21566,14 +21610,15 @@
 			(uuid "1af04b51-5adf-4234-9ed6-3b57abc7de6a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "67d6d818-6331-4a4f-92dc-695f033da1e7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -21887,13 +21932,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "3ee03e69-07bb-47ad-a028-424f13377dd2")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -22109,14 +22155,15 @@
 			(uuid "27ed9253-085e-489a-9c1d-e6dd125cea76")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "53f6df56-23c6-4601-bf59-8172baf516d9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -23331,14 +23378,15 @@
 			(uuid "e5ce7f1c-5c1e-42d5-a498-c452cb2ab142")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 7.62 0)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "B.SilkS")
 			(uuid "a661ebdb-e47c-46ea-91ca-b88b4089b5d9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -24039,13 +24087,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "83b50665-fcae-4331-8d04-c7f578946edf")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -24623,13 +24672,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "965da2aa-45b1-497d-9c68-7bd341a820c3")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -25265,14 +25315,15 @@
 			(uuid "777fd93b-783c-450d-bf38-8f3aad18d82d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 13.97 0)
-			(layer "F.Fab")
+			(at 3.81 13.97 180)
+			(layer "B.SilkS")
 			(uuid "7d36a3e3-7613-4c21-8ffe-9d5f1ffcef92")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -25872,14 +25923,15 @@
 			(uuid "0fbd4055-8316-46e1-9f51-ff0f4fe49787")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 7.62 -3.81 0)
-			(layer "F.Fab")
+			(at 7.62 -3.81 180)
+			(layer "B.SilkS")
 			(uuid "f3e5c472-0ed2-4892-9b3e-16c67cd4baa5")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole rect
@@ -26118,14 +26170,15 @@
 			(uuid "71d4d7b0-dfc5-4610-b614-40c027497aa8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "93d717ed-9146-48d5-9aec-f862b1e6482e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -26483,13 +26536,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "803f03e5-dc41-4f33-86bc-d7387f2db0ea")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -26646,13 +26700,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "3f8d40bf-b62a-4459-b510-48579e7249bd")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -26868,14 +26923,15 @@
 			(uuid "003fcd2c-22a7-40e0-ad8d-e1e9ab4f00b2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "16518084-c943-4759-8408-8a8725471bc8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -27189,13 +27245,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "f9ca24a7-de3f-4e98-86ec-17d44311c70b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -27410,14 +27467,15 @@
 			(uuid "f095d08d-a80e-42ac-8131-9650000ca71b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "958c4705-bd06-46b3-8b35-960e0a0ed08d")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -28210,14 +28268,15 @@
 			(uuid "4df55acd-4ea6-494d-954d-7afc070d95f9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "05901b42-c5ce-4605-9694-bfdebb822434")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -28634,14 +28693,15 @@
 			(uuid "458b178a-d3b8-4494-a547-1f67efa977a2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "61554367-de6d-4a12-9593-f4ce092c3003")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -29013,14 +29073,15 @@
 			(uuid "ec48ef4d-bf91-4d6d-ad21-296b216d4af6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "48f2930f-4831-481e-8383-e480cc3f7e84")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -30235,14 +30296,15 @@
 			(uuid "1c9313d3-3734-4476-88cf-887fa261d2b8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "87c143f0-2861-41b7-a847-9457a5395550")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -30556,13 +30618,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "ffb5cdda-87f5-4c2e-86aa-3d0d034dc483")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -30777,14 +30840,15 @@
 			(uuid "6282320b-de83-42e4-9e07-a0fb95b9f39b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 13.97 0)
-			(layer "F.Fab")
+			(at 3.81 13.97 180)
+			(layer "B.SilkS")
 			(uuid "bfc54514-3a39-4315-aef8-55332ae4fed3")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -31185,14 +31249,15 @@
 			(uuid "1f09b369-d25e-4da8-a519-6261a6911158")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
-			(layer "F.Fab")
+			(at 2.5 0 180)
+			(layer "B.SilkS")
 			(uuid "90ba036f-a3ca-429f-89be-f974ed7fe5ca")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -31349,13 +31414,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "4b4fbc77-8ef2-4d1d-8e87-ed8bb531ffc0")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -31523,13 +31589,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 5.08 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "d0bc2aa6-b7a9-4904-9383-ad21d4d9ea3c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -31729,14 +31796,15 @@
 			(uuid "594fbd1e-dcb1-45fe-b8d4-fdeb6cc1b3de")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 0)
-			(layer "F.Fab")
+			(at 1.27 0 180)
+			(layer "B.SilkS")
 			(uuid "62064903-944e-4dee-b70f-e01033cb7efa")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole rect
@@ -31903,13 +31971,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "c869dc8b-c2ac-438e-b7ba-5c0ab9fd3f93")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -32065,14 +32134,15 @@
 			(uuid "91898496-bc57-4fcb-a6a8-45dda94184c8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
-			(layer "F.Fab")
+			(at 2.5 0 180)
+			(layer "B.SilkS")
 			(uuid "f6293b4c-0601-4f40-959a-81ee5f9c1de7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -32239,14 +32309,15 @@
 			(uuid "672caed3-e101-4fcf-ba09-2ea354b83e3a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "c8f23096-b548-4122-9dba-926a2df97280")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -32824,13 +32895,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "40b6e746-048a-47cc-9555-fa0473253d02")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -33408,13 +33480,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "72b8958a-0476-4749-9c23-fe05bbb3a0f0")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -33571,13 +33644,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "e4f60b49-7adc-43c8-bf18-bdd5ee36be7b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -33792,14 +33866,15 @@
 			(uuid "ea18e60a-dabf-4317-afb7-202bc423e96b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "888e8115-75a0-4ec8-8bde-df459dec2b64")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -34593,14 +34668,15 @@
 			(uuid "fea46135-7d6b-444d-a646-fdcee47c61c4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "1f843496-9e0c-4f46-8ae4-96cfcb1cbd07")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -35335,13 +35411,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "d2a249dc-050a-490f-92f9-0f1bdf44f31c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -35919,13 +35996,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "50a5d9da-ebd9-4f7d-ab85-5e5dab56cab9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -36503,13 +36581,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "3b2fafdb-8c1b-4d32-ace8-c9082e94b505")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -36724,14 +36803,15 @@
 			(uuid "16a14759-cd4e-4c6e-bf8a-5f0c9574febe")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 13.97 0)
-			(layer "F.Fab")
+			(at 3.81 13.97 180)
+			(layer "B.SilkS")
 			(uuid "646168a5-50b0-4ab0-adbf-c6421392dc96")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -39043,14 +39123,15 @@
 			(uuid "07300372-bc47-4a3a-a9db-861d95ee71a8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
-			(layer "F.Fab")
+			(at 2.5 0 180)
+			(layer "B.SilkS")
 			(uuid "f714ecd8-3cb8-424d-a0b5-81892875e2df")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -39208,13 +39289,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "09e8db1d-091f-4446-ab1b-d332f91e0ca7")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -39371,13 +39453,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "300097db-ce82-4661-afa0-07e3dd3df413")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -39534,13 +39617,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "db6fc7c8-16bf-4e63-b375-6cfd2b09e1e8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -39696,14 +39780,15 @@
 			(uuid "20f571c1-1626-4d7d-b5d8-1e26d459fee8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 0)
-			(layer "F.Fab")
+			(at 2.5 0 180)
+			(layer "B.SilkS")
 			(uuid "534fb910-1cfa-433d-b35a-fd899e69376e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -39860,13 +39945,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "e3350c16-0a85-40fb-8822-5e94202cb960")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -40082,14 +40168,15 @@
 			(uuid "74d57f5d-9358-4803-9833-aea4a17b6e01")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "a3ba9fdb-4082-43a8-93ea-2dbadeb9d45c")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -40403,13 +40490,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "fe3d25cf-147b-4736-8a02-5b090db207c9")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -40624,14 +40712,15 @@
 			(uuid "aaa9c9ad-19a1-4f9b-920c-d00ecc454bab")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 11.43 0)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "B.SilkS")
 			(uuid "214af796-a12f-4d50-81e7-ebdd82c0224b")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -40999,14 +41088,15 @@
 			(uuid "3de89ea0-513f-4340-bd6a-835c8bed4181")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.35 0 0)
-			(layer "F.Fab")
+			(at 6.35 0 180)
+			(layer "B.SilkS")
 			(uuid "085b748b-3f34-4173-8cda-7ff3a72de394")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -44031,14 +44121,15 @@
 			(uuid "1663eb5b-a294-420a-8ad5-df13e6b2deb4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "f2cc6a3f-cb21-4d7e-bb83-5cf01a73ecbf")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -44195,13 +44286,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "201d1d7f-5b56-4d82-8825-a93889431178")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -44837,14 +44929,15 @@
 			(uuid "ddd920eb-a20f-4f53-9e94-4a1105b79a36")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "7170c21c-9169-49db-abd7-05b2e0fb1d9e")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -45216,14 +45309,15 @@
 			(uuid "80dbc920-65ee-4841-915f-96e34e6aabfb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 8.89 0)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "B.SilkS")
 			(uuid "6bf75039-5352-4180-98bb-3ccacf96dec1")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole roundrect
@@ -45547,14 +45641,15 @@
 			(uuid "b24debfd-5136-4aae-aabc-2c03de8d5063")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "49b974b0-30d7-4c4d-8a94-539fb883b0d8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -45711,13 +45806,14 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.5 0 90)
-			(layer "F.Fab")
+			(layer "B.SilkS")
 			(uuid "8a986109-5adf-430f-8b5e-4509b5a374c8")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -46305,14 +46401,15 @@
 			(uuid "ea4502f7-4db6-4814-b19c-aafc4c7fdd90")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 5.08 0 0)
-			(layer "F.Fab")
+			(at 5.08 0 180)
+			(layer "B.SilkS")
 			(uuid "3be3cb24-935f-4f76-a384-ac753e71dd87")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -46779,6 +46876,19 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "4b29031f-b2eb-4e10-9583-b1c53f6ebeba")
+	)
+	(gr_text "54weasels/CG4 V1.0"
+		(at 86.0044 225.3488 0)
+		(layer "F.SilkS")
+		(uuid "f7c4c41f-68b3-4d31-8122-310dd877cd20")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 273.366 184.668)
